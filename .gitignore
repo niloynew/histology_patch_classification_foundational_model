@@ -1,0 +1,8 @@
+#Python
+.venv/
+_pycache_/
+*.pyc
+
+#Local config and secrets
+.env
+.vscode/

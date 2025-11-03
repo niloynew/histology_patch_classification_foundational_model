@@ -1,0 +1,2 @@
+# MMM framework (with interactive extras)
+MedicalMultitaskModeling[interactive] @ git+https://github.com/FraunhoferMEVIS/MedicalMultitaskModeling.git
